@@ -1,0 +1,1 @@
+# nuxt-dynamic-svg-loader
